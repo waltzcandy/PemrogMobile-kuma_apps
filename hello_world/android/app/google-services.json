@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "816655861856",
+    "project_id": "testnotif-d446f",
+    "storage_bucket": "testnotif-d446f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816655861856:android:56ff145bb4ba1cbe215b05",
+        "android_client_info": {
+          "package_name": "com.example.hello_world"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "816655861856-sqdclhkhk0f9les4188k0d821hll775r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZoiHLzRzdaL6Jpm9tZYt4Z3wlHV6LvAg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "816655861856-sqdclhkhk0f9les4188k0d821hll775r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

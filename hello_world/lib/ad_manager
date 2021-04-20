@@ -1,0 +1,43 @@
+import 'dart:io';
+
+class AdManager {
+  static String get appId {
+    if (Platform.isAndroid) {
+      return "ca-app-pub-3590457896807303~7298446451";
+    } else if (Platform.isIOS) {
+      return "ca-app-pub-3590457896807303~7298446451";
+    } else {
+      throw new UnsupportedError("Unsupported platform");
+    }
+  }
+
+  static String get bannerAdUnitId {
+    if (Platform.isAndroid) {
+      return "ca-app-pub-3590457896807303/4164839048";
+    } else if (Platform.isIOS) {
+      return "ca-app-pub-3590457896807303/4164839048";
+    } else {
+      throw new UnsupportedError("Unsupported platform");
+    }
+  }
+
+  static String get interstitialAdUnitId {
+    if (Platform.isAndroid) {
+      return "ca-app-pub-3590457896807303/1439437500";
+    } else if (Platform.isIOS) {
+      return "ca-app-pub-3590457896807303/1439437500";
+    } else {
+      throw new UnsupportedError("Unsupported platform");
+    }
+  }
+
+  static String get rewardedAdUnitId {
+    if (Platform.isAndroid) {
+      return "ca-app-pub-3590457896807303/1247865815";
+    } else if (Platform.isIOS) {
+      return "ca-app-pub-3590457896807303/1247865815";
+    } else {
+      throw new UnsupportedError("Unsupported platform");
+    }
+  }
+}
