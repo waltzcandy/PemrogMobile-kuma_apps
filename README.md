@@ -1,6 +1,8 @@
 # PemrogMobile-kuma_apps
 Final Project Pemrograman Mobile
 
+![KuMa (1)](https://user-images.githubusercontent.com/39259006/164461390-a8a5cd39-9d11-44d9-ac60-ccc482b4c4d7.png)
+
 ![Poster_3011710052](https://user-images.githubusercontent.com/39259006/164460154-72850b1b-e5c2-464d-85fc-bb44a2961575.png)
 
 
