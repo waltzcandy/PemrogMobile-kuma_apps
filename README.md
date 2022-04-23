@@ -1,5 +1,5 @@
 # PemrogMobile-kuma_apps
-Final Project Mata Kuliah Pemrograman Mobile
+<b>Final Project Mata Kuliah Pemrograman Mobile</b>
 
 ![KuMa (1)](https://user-images.githubusercontent.com/39259006/164461390-a8a5cd39-9d11-44d9-ac60-ccc482b4c4d7.png)
 
